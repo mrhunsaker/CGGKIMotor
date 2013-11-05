@@ -81,7 +81,7 @@ Figure 4: Representative photomicrographs of Golgi-Cox stained pyramidal neurons
 
 ---
 
-![Movie 1](https://vimeo.com/78659462)
+<iframe width = "560" height "315" src="https://vimeo.com/78659462" frameborder="0" allowfullscreen></iframe>
 Supplemental Movie 1: Example trials for a WT and High CGG (CGG repeat = 160) mouse demonstrating the difference for skilled forelimb reaching.
 
 ---

@@ -1,9 +1,9 @@
 #Mouse Models of the Fragile X tremor/ataxia Syndrome (FXTAS) and the Fragile X Premutation
 
 ##Robert F. Berman, Jared J. Schwartzer, & Michael R. Hunsaker
-Department of Neurological Surgery, Department of Psychiatry and Behavioral Sciences; University of California Davis, Davis, CA, USA
 
-Center for Integrative Neuroscience and Human Behavior; University of Utah; Salt Lake City, UT, USA
+###Department of Neurological Surgery, Department of Psychiatry and Behavioral Sciences; University of California Davis, Davis, CA, USA
+###Center for Integrative Neuroscience and Human Behavior; University of Utah; Salt Lake City, UT, USA
 
 
 ##ABSTRACT
@@ -81,7 +81,7 @@ Figure 4: Representative photomicrographs of Golgi-Cox stained pyramidal neurons
 
 ---
 
-![Movie 1](https://github.com/mrhunsaker/CGGKIMotor/raw/master/Movie1.m4v?raw=TRUE)
+![Movie 1](https://vimeo.com/78659462)
 Supplemental Movie 1: Example trials for a WT and High CGG (CGG repeat = 160) mouse demonstrating the difference for skilled forelimb reaching.
 
 ---
